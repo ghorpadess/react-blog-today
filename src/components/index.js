@@ -4,11 +4,11 @@ import Button from "./Button";
 import Container from "./container/Container";
 import Footer from "./Footer/Footer";
 import Header from "./Header/Header";
+import Logo from "./Logo";
 import LogoutBtn from "./Header/LogoutBtn";
 
 // import Input from "./Input";
 // import Login from "./Login";
-// import Logo from "./Logo";
 
 // import PostCard from "./PostCard";
 // import PostForm from "./post-form/PostForm";
@@ -20,7 +20,7 @@ export {
   Header,
   Footer,
   Container,
-  //   Logo,
+  Logo,
   LogoutBtn,
   //   RTE,
   //   Signup,
